@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "Krixi",
+        "tel": "0986096016",
+        "permission": 1
+    },
+    {
+        "id": 2,
+        "name": "Natalya",
+        "tel": "0986096017",
+        "permission": 2
+    },
+    {
+        "id": 3,
+        "name": "Yorn",
+        "tel": "0986096018",
+        "permission": 3
+    },
+    {
+        "id": 4,
+        "name": "Grakk",
+        "tel": "0986096019",
+        "permission": 1
+    },
+    {
+        "id": 5,
+        "name": "Gidur",
+        "tel": "0986096020",
+        "permission": 1
+    },
+    {
+        "id": 6,
+        "name": "Trieu Van",
+        "tel": "0986096021",
+        "permission": 1
+    }
+]
